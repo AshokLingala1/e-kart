@@ -1,4 +1,4 @@
-import {renderOrderSummary,renderCartQuantity} from './checkout/orderSummary.js';
+import {renderOrderSummary,renderCartQuantity} from '../../orderSummary.js';
 import {renderPaymentSummary} from './checkout/paymentSummary.js';
 
 renderCartQuantity();
